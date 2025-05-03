@@ -1,0 +1,47 @@
+numpy
+pandas
+pymongo==4.3.3
+nltk==3.8.1
+scikit-learn
+matplotlib
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+PyMuPDF           # For PDF text extraction
+python-docx       # For DOCX text extraction
+pytesseract       # For OCR (image text extraction)
+opencv-python     # For image processing
+pillow            # For handling images
+dnspython         # If using MongoDB Atlas
+python-dotenv     # For handling environment variables
+rank-bm25         # For BM25 retrieval algorithm
+Flask
+Flask-Cors
+pymongo==4.3.3                # MongoDB
+google-api-python-client      # Google Drive API
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+nltk==3.8.1                  # Text preprocessing
+scikit-learn                 # Machine Learning
+numpy                         # Numerical operations
+pandas                        # Data handling
+matplotlib                    # Data visualization
+seaborn                       # Data visualization
+scipy                         # Scientific computations
+requests                      # HTTP requests
+beautifulsoup4                # Web scraping (if needed)
+PyMuPDF                       # PDF text extraction
+python-docx                   # DOCX text extraction
+pytesseract                   # OCR for image PDFs
+opencv-python                 # Image processing
+pillow                        # Image handling
+dnspython                     # MongoDB Atlas DNS
+python-dotenv                 # Environment variables
+rank-bm25                     # BM25 ranking for information retrieval
+tqdm                          # Progress bars
+pdf2image                     # Convert PDF to images
+pdfplumber                    # PDF text extraction
+streamlit
+fastapi
+

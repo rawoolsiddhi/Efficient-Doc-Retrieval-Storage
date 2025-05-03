@@ -1,0 +1,119 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ec07714bff833219f57c48f2792d6e0f26abf96
+# Ignore Python virtual environments
+venvv/
+*.venv
+*.env
+<<<<<<< HEAD
+=======
+# --- Python Virtual Environments ---
+venvv/
+*.venv/
+*.env/
+>>>>>>> c51ece5 (Clean start: add source, app, and essential files only)
+=======
+>>>>>>> 5ec07714bff833219f57c48f2792d6e0f26abf96
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ec07714bff833219f57c48f2792d6e0f26abf96
+# Ignore data files (e.g., MongoDB dumps, logs, or large datasets)
+# Ignore the contents of the 'data/' folder but keep the folder structure
+data/*.pdf       # Ignore PDFs specifically
+data/*.csv        # If you have large CSV files, you can ignore them
+data/*.json       # If you have large JSON files, you can ignore them
+data/*.log        # If you have large log files, you can ignore them
+
+# Track the data folder but ignore its contents (other than PDFs, CSVs, JSON, and logs)
+!data/
+
+# Ignore MongoDB data (specific files related to MongoDB and database dumps)
+mongodb_data/      # Ignore MongoDB's data directory
+*.db               # Ignore database files like SQLite or other DBs
+*.sqlite           # Ignore SQLite database files
+*.log              # Ignore database logs
+
+# Ignore secrets and credentials (do not commit these to GitHub)
+<<<<<<< HEAD
+=======
+# --- IDE, Editor, System Files ---
+.DS_Store
+Thumbs.db
+*.swp
+.ipynb_checkpoints/
+
+# --- Data Files and Datasets ---
+*.csv
+*.json
+*.log
+*.db
+*.sqlite
+*.pickle
+
+# --- Compressed / Large Files ---
+*.pdf
+*.PDF
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.exe
+*.mp4
+*.mkv
+*.bak
+*.bak2
+
+# --- MongoDB & Database Dumps ---
+mongodb_data/
+*.dump
+
+# --- Credentials / Secrets ---
+>>>>>>> c51ece5 (Clean start: add source, app, and essential files only)
+=======
+>>>>>>> 5ec07714bff833219f57c48f2792d6e0f26abf96
+client_secrets.json
+config.yaml
+.env
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ec07714bff833219f57c48f2792d6e0f26abf96
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files (created by macOS, Windows, or Linux systems)
+.DS_Store          # macOS system files
+Thumbs.db          # Windows system files
+*.swp              # Vim swap files
+
+# Ignore large compressed files (if any)
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Optional: Ignore other sensitive or large files
+*.bak              # Backup files
+*.bak2
+<<<<<<< HEAD
+=======
+# --- Specific Project Folder Exclusions ---
+# Ignore contents of src/data except placeholder
+src/data/*
+!src/data/.gitkeep
+
+# Ignore contents of ground_truth except placeholder
+ground_truth/*
+!ground_truth/.gitkeep
+>>>>>>> c51ece5 (Clean start: add source, app, and essential files only)
+=======
+>>>>>>> 5ec07714bff833219f57c48f2792d6e0f26abf96
