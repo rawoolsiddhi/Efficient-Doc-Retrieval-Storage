@@ -99,15 +99,27 @@ Navigate into the directory
    ```bash
    pip install -r requirements.txt
    ```
+# 4.Start MongoDB:
+
+Make sure MongoDB is installed and running locally (default port: 27017), or update your code with a cloud MongoDB URI.
 
 # 5. Run the Streamlit app
    ```bash
    streamlit run app.py
    ```
+This will launch the document retrieval interface in your browser.
+## UI
+
+![image](https://github.com/user-attachments/assets/29c0bf71-7783-4202-abc3-c539663c4be5)
 
 Dependencies:
 Python 3.8 and above
 MongoDB (local or cloud instance)
+
+## Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/2b562ee8-1391-41e8-9dde-88f10ab823d9)
+
 
 ## Evaluation Metrics
 ------------------------------------------------------------------------------------------
@@ -121,13 +133,6 @@ MongoDB (local or cloud instance)
 | **Accuracy Range** | 0.88 - 0.96                        | 0.85 - 0.95 | 0.82 - 0.91     |
 |                                                                                         |
 -------------------------------------------------------------------------------------------
-## Architecture Diagram
-
-![image](https://github.com/user-attachments/assets/2b562ee8-1391-41e8-9dde-88f10ab823d9)
-
-## UI
-
-![image](https://github.com/user-attachments/assets/29c0bf71-7783-4202-abc3-c539663c4be5)
 
 
 ##  How It Works
@@ -145,6 +150,10 @@ MongoDB (local or cloud instance)
 6. Search Logging: Store user queries and retrieval metadata.
 
 7. Ranking: Return documents with highest combined relevance.
+
+## Contributing
+
+Contributions are welcome! Please fork the repo and submit a pull request for review.
 
 ##  License
 This project is released under the MIT License.
