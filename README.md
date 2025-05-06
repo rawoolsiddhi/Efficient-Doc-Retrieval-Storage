@@ -111,6 +111,9 @@ streamlit run app.py
 | **MAP**            | 0.89                               | 0.80        | 0.75            |
 | **Accuracy Range** | 0.88 - 0.96                        | 0.85 - 0.95 | 0.82 - 0.91     |
 
+## Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/2b562ee8-1391-41e8-9dde-88f10ab823d9)
 
 ## UI
 
