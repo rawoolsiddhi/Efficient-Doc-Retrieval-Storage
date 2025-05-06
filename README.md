@@ -70,7 +70,7 @@ Efficient-Doc-Retrieval-Storage/
 
 ├── venv/                         # Virtual environment.
 
-'''
+```
 
 
 ## ⚙️ Installation & Setup
