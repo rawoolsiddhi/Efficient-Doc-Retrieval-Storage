@@ -81,44 +81,19 @@ To run this project locally, follow these steps:
 git clone https://github.com/your-username/Efficient-Doc-Retrieval-Storage.git
 cd Efficient-Doc-Retrieval-Storage
 
-# 2. Create virtual environment
-python -m venv venv
-
-# 3. Activate virtual environment
-  
-  On Windows:
-  
-     venv\Scripts\activate
-  
-  On Mac/Linux:
-  
-    source venv/bin/activate
-
-# 4. Install required Python packages
-pip install -r requirements.txt
-
-# 5. Run the Streamlit app
-streamlit run app.py
-
-
-To run this project locally, follow these steps:
-
-# 1. Clone the repository
-git clone https://github.com/your-username/Efficient-Doc-Retrieval-Storage.git
-cd Efficient-Doc-Retrieval-Storage
 
 # 2. Create virtual environment
 python -m venv venv
 
+
 # 3. Activate virtual environment
-  On Windows:
-  venv\Scripts\activate
-   
-  On Mac/Linux:
-  source venv/bin/activate
+ On Windows: `venv\Scripts\activate`  
+ On Mac/Linux: `source venv/bin/activate`
+
 
 # 4. Install required Python packages
 pip install -r requirements.txt
+
 
 # 5. Run the Streamlit app
 streamlit run app.py
