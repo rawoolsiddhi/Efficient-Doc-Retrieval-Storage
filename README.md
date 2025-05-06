@@ -120,7 +120,7 @@ Navigate into the directory
 
 ## UI
 
-![image](https://github.com/user-attachments/assets/0ca92f6c-225d-478c-a1cc-857a8a1bbe5b)
+![image](https://github.com/user-attachments/assets/29c0bf71-7783-4202-abc3-c539663c4be5)
 
 
 ##  How It Works
