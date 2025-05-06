@@ -13,8 +13,7 @@ This project is based on our IEEE-published research paper:
 
 ## Watch the Demo
 
-https://github.com/user-attachments/assets/8c04d122-d2e2-43ee-b68b-20287369b70f
-
+https://github.com/user-attachments/assets/122bc70b-af0f-40c2-bdc7-a83502743488
 
 
 ## 🌟 Features
