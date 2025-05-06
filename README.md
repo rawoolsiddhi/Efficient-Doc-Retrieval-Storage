@@ -82,31 +82,34 @@ To set up this project locally, follow the steps below:
    ```bash
    git clone https://github.com/rawoolsiddhi/Efficient-Doc-Retrieval-Storage.git
  
-  Navigate into the directory
-   ```bash
-    cd Efficient-Doc-Retrieval-Storage
-   ```
+Navigate into the directory
+     ```bash
+        cd Efficient-Doc-Retrieval-Storage
+     ```
      
-# 2. Create virtual environment
-   python -m venv venv
+# 2. Create and activate a virtual environment (recommended):
+        ```bash
+          python3 -m venv venv
+          source venv/bin/activate  # For Linux/Mac
+          venv\Scripts\activate     # For Windows
+        ```
 
-
-# 3. Activate virtual environment
-  On Windows: `venv\Scripts\activate`  
-  On Mac/Linux: `source venv/bin/activate`
-
-
-# 4. Install required Python packages
-  pip install -r requirements.txt
-
+# 3. Install required Python packages
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 # 5. Run the Streamlit app
-  streamlit run app.py
+   ```bash
+   streamlit run app.py
+   ```
 
-
+Dependencies:
+Python 3.8 and above
+MongoDB (local or cloud instance)
 
 ## Evaluation Metrics
-
+------------------------------------------------------------------------------------------
 | Metric             | Hybrid Model<br>(VSM + Clustering) | VSM Only    | BM25 (Optional) |
 | ------------------ | ---------------------------------- | ----------- | --------------- |
 | **Precision**      | 0.91                               | 0.83        | 0.77            |
@@ -115,7 +118,8 @@ To set up this project locally, follow the steps below:
 | **NDCG**           | 0.92                               | 0.82        | 0.78            |
 | **MAP**            | 0.89                               | 0.80        | 0.75            |
 | **Accuracy Range** | 0.88 - 0.96                        | 0.85 - 0.95 | 0.82 - 0.91     |
-
+|                                                                                         |
+-------------------------------------------------------------------------------------------
 ## Architecture Diagram
 
 ![image](https://github.com/user-attachments/assets/2b562ee8-1391-41e8-9dde-88f10ab823d9)
