@@ -84,16 +84,16 @@ To set up this project locally, follow the steps below:
    ```
    
 Navigate into the directory
-    ```bash
+    
         cd Efficient-Doc-Retrieval-Storage
-     ```
+     
      
 # 2. Create and activate a virtual environment (recommended):
-        ```bash
+        
           python3 -m venv venv
           source venv/bin/activate  # For Linux/Mac
           venv\Scripts\activate     # For Windows
-        ```
+        
 
 # 3. Install required Python packages
    ```bash
