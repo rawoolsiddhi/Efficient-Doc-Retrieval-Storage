@@ -2,8 +2,6 @@
 
 An document retrieval system that leverages **Vector Space Model (VSM)** and **Efficient Clustering** to extract, store, rank, and retrieve documents  Designed to serve research and enterprise needs for smarter information access.
 
----
-
 ## 📘 IEEE Publication
 
 This project is based on our IEEE-published research paper:
@@ -12,6 +10,10 @@ This project is based on our IEEE-published research paper:
 > 🔗 **IEEE Xplore**: [https://ieeexplore.ieee.org/abstract/document/10940682](https://ieeexplore.ieee.org/abstract/document/10940682)
 
 📌 The model introduces a hybrid approach combining **TF-IDF-based retrieval** with **Single-Link Clustering**, improving accuracy, relevance, and ranking.
+
+## Watch the Demo
+
+https://github.com/user-attachments/assets/8c04d122-d2e2-43ee-b68b-20287369b70f
 
 
 
@@ -79,24 +81,26 @@ To run this project locally, follow these steps:
 
 # 1. Clone the repository
 git clone https://github.com/your-username/Efficient-Doc-Retrieval-Storage.git
-cd Efficient-Doc-Retrieval-Storage
-
+ cd Efficient-Doc-Retrieval-Storage
+ 
+Navigate into the directory
+ cd Efficient-Doc-Retrieval-Storage
 
 # 2. Create virtual environment
-python -m venv venv
+   python -m venv venv
 
 
 # 3. Activate virtual environment
- On Windows: `venv\Scripts\activate`  
- On Mac/Linux: `source venv/bin/activate`
+  On Windows: `venv\Scripts\activate`  
+  On Mac/Linux: `source venv/bin/activate`
 
 
 # 4. Install required Python packages
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 
 # 5. Run the Streamlit app
-streamlit run app.py
+  streamlit run app.py
 
 
 
