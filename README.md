@@ -88,11 +88,11 @@ python -m venv venv
   
   On Windows:
   
-  venv\Scripts\activate
+     venv\Scripts\activate
   
   On Mac/Linux:
   
-  source venv/bin/activate
+    source venv/bin/activate
 
 # 4. Install required Python packages
 pip install -r requirements.txt
