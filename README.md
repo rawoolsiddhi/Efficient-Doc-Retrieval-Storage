@@ -82,6 +82,7 @@ To set up this project locally, follow the steps below:
    ```bash
    git clone https://github.com/rawoolsiddhi/Efficient-Doc-Retrieval-Storage.git
    ```
+   
 Navigate into the directory
     ```bash
         cd Efficient-Doc-Retrieval-Storage
