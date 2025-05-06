@@ -135,6 +135,9 @@ streamlit run app.py
 
 ## UI
 
+![image](https://github.com/user-attachments/assets/0ca92f6c-225d-478c-a1cc-857a8a1bbe5b)
+
+
 ##  How It Works
 
 1. Text Extraction: Extract content from PDFs using PyMuPDF.
