@@ -31,6 +31,7 @@ This project is based on our IEEE-published research paper:
 ## 📁 Project Structure
 
 
+```bash
 Efficient-Doc-Retrieval-Storage/
 ├── app.py                         # Streamlit app interface
 ├── requirements.txt
@@ -67,9 +68,7 @@ Efficient-Doc-Retrieval-Storage/
 
 │   └── data/                     # Folder for raw/extracted files
 
-├── venv/                         # Virtual environment.
-
-
+├── venv/                         # Virtual environment.'''
 
 
 ## ⚙️ Installation & Setup
