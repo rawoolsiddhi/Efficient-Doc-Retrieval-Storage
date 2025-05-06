@@ -107,10 +107,11 @@ cd Efficient-Doc-Retrieval-Storage
 python -m venv venv
 
 # 3. Activate virtual environment
-# On Windows:
-venv\Scripts\activate
-# On Mac/Linux:
-source venv/bin/activate
+  On Windows:
+  venv\Scripts\activate
+   
+  On Mac/Linux:
+  source venv/bin/activate
 
 # 4. Install required Python packages
 pip install -r requirements.txt
