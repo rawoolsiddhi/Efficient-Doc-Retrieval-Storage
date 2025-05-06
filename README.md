@@ -68,7 +68,9 @@ Efficient-Doc-Retrieval-Storage/
 
 │   └── data/                     # Folder for raw/extracted files
 
-├── venv/                         # Virtual environment.'''
+├── venv/                         # Virtual environment.
+
+'''
 
 
 ## ⚙️ Installation & Setup
