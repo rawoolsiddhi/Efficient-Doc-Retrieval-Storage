@@ -1,4 +1,4 @@
-# 📄 Efficient Document Storage & Retrieval with VSM + Clustering
+# 📄 Semantic Document Retrieval using Single-Link Clustering and Vector Space Models
 
 An document retrieval system that leverages **Vector Space Model (VSM)** and **Efficient Clustering** to extract, store, rank, and retrieve documents  Designed to serve research and enterprise needs for smarter information access.
 
@@ -76,15 +76,17 @@ Efficient-Doc-Retrieval-Storage/
 
 ## ⚙️ Installation & Setup
 
-To run this project locally, follow these steps:
+To set up this project locally, follow the steps below:
 
-# 1. Clone the repository
-git clone https://github.com/your-username/Efficient-Doc-Retrieval-Storage.git
- cd Efficient-Doc-Retrieval-Storage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rawoolsiddhi/Efficient-Doc-Retrieval-Storage.git
  
-Navigate into the directory
- cd Efficient-Doc-Retrieval-Storage
-
+  Navigate into the directory
+   ```bash
+    cd Efficient-Doc-Retrieval-Storage
+   ```
+     
 # 2. Create virtual environment
    python -m venv venv
 
