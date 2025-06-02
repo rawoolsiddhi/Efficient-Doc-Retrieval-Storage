@@ -9,7 +9,7 @@ This project is based on our IEEE-published research paper:
 > 📝 **Title**: Document Storage and Retrieval with Efficient Clustering Using the Vector Space Model  
 > 🔗 **IEEE Xplore**: [https://ieeexplore.ieee.org/abstract/document/10940682](https://ieeexplore.ieee.org/abstract/document/10940682)
 
-📌 The model introduces a hybrid approach combining **TF-IDF-based retrieval** with **Single-Link Clustering**, improving accuracy, relevance, and ranking.
+ The model introduces a hybrid approach combining **TF-IDF-based retrieval** with **Single-Link Clustering**, improving accuracy, relevance, and ranking.
 
 ## Watch the Demo
 
@@ -122,7 +122,7 @@ MongoDB (local or cloud instance)
 
 
 ## Evaluation Metrics
-------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------
 | Metric             | Hybrid Model<br>(VSM + Clustering) | VSM Only    | BM25 (Optional) |
 | ------------------ | ---------------------------------- | ----------- | --------------- |
 | **Precision**      | 0.91                               | 0.83        | 0.77            |
