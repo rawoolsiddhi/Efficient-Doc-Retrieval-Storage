@@ -27,7 +27,6 @@ https://github.com/user-attachments/assets/122bc70b-af0f-40c2-bdc7-a83502743488
 - 🧾 **MongoDB** backend for storing documents and search logs
 - 📈 Built-in **Evaluation Metrics** (Precision, Recall, MAP, NDCG, F2)
 
----
 
 ## 📁 Project Structure
 
