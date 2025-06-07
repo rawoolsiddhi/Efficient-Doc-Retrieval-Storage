@@ -15,7 +15,6 @@ This project is based on our IEEE-published research paper:
 
 https://github.com/user-attachments/assets/122bc70b-af0f-40c2-bdc7-a83502743488
 
-
 ## 🌟 Features
 
 - 📥 **Text Extraction** (using PyMuPDF)
