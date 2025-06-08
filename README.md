@@ -9,6 +9,7 @@ This project is based on our IEEE-published research paper:
 > 📝 **Title**: Document Storage and Retrieval with Efficient Clustering Using the Vector Space Model  
 > 🔗 **IEEE Xplore**: [https://ieeexplore.ieee.org/abstract/document/10940682](https://ieeexplore.ieee.org/abstract/document/10940682)
 
+
  The model introduces a hybrid approach combining **TF-IDF-based retrieval** with **Single-Link Clustering**, improving accuracy, relevance, and ranking.
 
 ## Watch the Demo
