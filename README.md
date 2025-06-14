@@ -1,8 +1,8 @@
-# 📄 Semantic Document Retrieval using Single-Link Clustering and Vector Space Models
+#  Semantic Document Retrieval using Single-Link Clustering and Vector Space Models
 
 An document retrieval system that leverages **Vector Space Model (VSM)** and **Efficient Clustering** to extract, store, rank, and retrieve documents  Designed to serve research and enterprise needs for smarter information access.
 
-## 📘 IEEE Publication
+##  IEEE Publication
 
 This project is based on our IEEE-published research paper:
 
